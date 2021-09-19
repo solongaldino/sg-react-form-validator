@@ -1,0 +1,7 @@
+{
+  "email":{
+    "success": "",
+    "empty": "Field email can not be empty",
+    "invalidFormat": "Invalid email format"
+  }
+}

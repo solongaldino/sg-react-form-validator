@@ -1,0 +1,18 @@
+{
+  "fullName":{
+    "success": "",
+    "empty": "Campo não pode ser vazio",
+    "invalidFormat": "Nome com formato inválido"
+  },
+  "email":{
+    "success": "",
+    "empty": "Campo não pode ser vazio",
+    "invalidFormat": "E-mail com formato inválido"
+  },
+  "password":{
+    "success": "",
+    "empty": "Campo não pode ser vazio",
+    "minLength": "Senha deve conter mais caracteres",
+    "maxLength": "Valor máximo de caracteres atingido"
+  }
+}
